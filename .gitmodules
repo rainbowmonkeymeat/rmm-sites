@@ -1,3 +1,6 @@
 [submodule "rmm-future/themes/lean-launch-page"]
 	path = rmm-future/themes/lean-launch-page
 	url = https://github.com/felicianotech/hugo-theme-lean-launch-page.git
+[submodule "calchoose/themes/PaperMod"]
+	path = calchoose/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git

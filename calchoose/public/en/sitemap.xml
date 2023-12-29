@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://calchoose.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://calchoose.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://calchoose.com/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://calchoose.com/"
+                />
+  </url><url>
+    <loc>https://calchoose.com/categories/</loc>
+  </url><url>
+    <loc>https://calchoose.com/series/</loc>
+  </url><url>
+    <loc>https://calchoose.com/tags/</loc>
+  </url>
+</urlset>
